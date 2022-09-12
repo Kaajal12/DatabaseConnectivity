@@ -1,4 +1,4 @@
-# DatabaseConnectivity
+# Database Connectivity
 MYSQL Connectivity
 
 Purpose: Retrieve information from the user through the Graphical User Interface (GUI) and display the records in the terminal using the MYSQL 
